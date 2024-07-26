@@ -72,7 +72,7 @@ cd CodeUS-Backend
 
 루트 디렉토리에서 모든 dependecy를 다운받습니다.
 
-<img width="1919" alt="스크린샷 2024-07-26 081402" src="https://github.com/user-attachments/assets/f0085102-e14b-45da-84ed-669ed2a2c37c">
+<img width="1919" alt="스크린샷 2024-07-26 081402" src="https://github.com/user-attachments/assets/c978132c-7b45-4f0a-9083-03f5fd7d1fc9">
 
 ### 3. 백엔드 실행
 
