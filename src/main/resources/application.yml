@@ -1,0 +1,34 @@
+spring:
+  config:
+    activate:
+      on-profile: default
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:codeus}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:1234}
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+  sql:
+    init:
+      mode: always
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    generate-ddl: true
+    hibernate:
+      ddl-auto: ${DDL_AUTO:create}
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    defer-datasource-initialization: true
+    open-in-view: false
+
+jwt:
+  access-time: 3600000 # 1??
+  refresh-time: 2592000000 # 30?
+  prefix: Bearer
+  header: Authorization
+  secret-key: ${JWT_SECRET}
