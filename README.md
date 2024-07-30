@@ -1,3 +1,9 @@
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e2a531a2-345f-4e27-9dcc-afc2ed5aee83" width="65%" />
+</div>
+
 <img src="https://github.com/user-attachments/assets/89211c25-b1b3-4326-b706-65671a361153"/>
 
 ## 멤버
