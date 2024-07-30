@@ -16,6 +16,7 @@
 
 ## 프로젝트 사용 기술
 
+<img src="https://github.com/user-attachments/assets/a830e6d1-7f93-45bc-bf48-70a18e17873b" />
 <img src="https://github.com/user-attachments/assets/9a1aecb0-e165-49b4-b9a3-5b0845140afd" />
 <br><br>
 
