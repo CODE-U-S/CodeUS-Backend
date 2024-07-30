@@ -1,9 +1,12 @@
-# 코더스 지원 웹사이트 백엔드
+<img src="https://github.com/user-attachments/assets/89211c25-b1b3-4326-b706-65671a361153"/>
 
-2024-07-25 ~
-<br><br>
+## 동아리 소개
+
+![Group 4](https://github.com/user-attachments/assets/123b238a-4eb3-4c24-ae49-d12d9aae1856)
+
 
 ## 멤버
+2024-07-25 ~
 
 <table>
   <tr>
@@ -18,13 +21,8 @@
 
 ## 프로젝트 사용 기술
 
-- SpringBoot, Kotlin, JPA, Spring Security, QueryDSL
-- 디자인 패턴 :  MVC 패턴 + Solid 패턴
-- Database : MySQL, Redis
-- 보안 :  JWT
-- CI/CD(배포) : Github Actions, Docker, docker-compose
-- Testing :  TDD JUnit5
-<br>
+<img src="https://github.com/user-attachments/assets/9a1aecb0-e165-49b4-b9a3-5b0845140afd" />
+<br><br>
 
 ## 프로젝트 폴더 구조
 
