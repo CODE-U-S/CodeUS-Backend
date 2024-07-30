@@ -1,10 +1,5 @@
 <img src="https://github.com/user-attachments/assets/89211c25-b1b3-4326-b706-65671a361153"/>
 
-## 동아리 소개
-
-![Group 4](https://github.com/user-attachments/assets/123b238a-4eb3-4c24-ae49-d12d9aae1856)
-
-
 ## 멤버
 2024-07-25 ~
 
